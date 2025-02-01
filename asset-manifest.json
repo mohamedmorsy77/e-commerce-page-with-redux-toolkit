@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e-commerce-page-with-redux-toolkit/static/css/main.3352f531.css",
-    "main.js": "/e-commerce-page-with-redux-toolkit/static/js/main.511ca78c.js",
+    "main.js": "/e-commerce-page-with-redux-toolkit/static/js/main.cfac8845.js",
     "static/media/4.png": "/e-commerce-page-with-redux-toolkit/static/media/4.240703fe7e6c00076c5f.png",
     "static/media/5.png": "/e-commerce-page-with-redux-toolkit/static/media/5.f49acd70cb5336303c98.png",
     "static/media/2.png": "/e-commerce-page-with-redux-toolkit/static/media/2.ea700311649e6fe09bdd.png",
@@ -13,10 +13,10 @@
     "static/media/iconCart.png": "/e-commerce-page-with-redux-toolkit/static/media/iconCart.eca5ee08f37494f3f691.png",
     "index.html": "/e-commerce-page-with-redux-toolkit/index.html",
     "main.3352f531.css.map": "/e-commerce-page-with-redux-toolkit/static/css/main.3352f531.css.map",
-    "main.511ca78c.js.map": "/e-commerce-page-with-redux-toolkit/static/js/main.511ca78c.js.map"
+    "main.cfac8845.js.map": "/e-commerce-page-with-redux-toolkit/static/js/main.cfac8845.js.map"
   },
   "entrypoints": [
     "static/css/main.3352f531.css",
-    "static/js/main.511ca78c.js"
+    "static/js/main.cfac8845.js"
   ]
 }
