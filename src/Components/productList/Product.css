@@ -1,0 +1,23 @@
+.product-lists .item {
+  background-color: #eeeee6;
+  cursor: pointer;
+}
+
+.product-lists .item img {
+  filter: drop-shadow(0 50px 20px #0009);
+  -webkit-filter: drop-shadow(0 50px 20px #0009);
+  
+}
+.product-lists .item  h2 {
+  font-size: 0.8rem;
+
+}
+.product-lists .addCart {
+    width: fit-content;
+    margin: auto;
+  background-color: #c7c7c5;
+}
+.product-lists .addCart img {
+    width: 20px;
+    
+}

@@ -1,0 +1,7 @@
+.details .addMoreProductQuantity span {
+    cursor: pointer;
+}
+   
+.details .back-home {
+    width: fit-content;
+}
