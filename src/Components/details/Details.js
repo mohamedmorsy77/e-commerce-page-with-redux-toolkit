@@ -42,7 +42,7 @@ function Details() {
         <div className="container">
           <div className="row">
             <div className="col-12 col-lg-6 mt-4 text-center text-lg-start">
-              <img src={details.image} alt="product-image" />
+              <img className="img-fluid" src={details.image} alt="product-image" />
             </div>
             <div className="col-12 col-lg-6 align-self-center mt-4 text-center text-lg-start">
               <h2 className="mb-3">{details.name}</h2>
